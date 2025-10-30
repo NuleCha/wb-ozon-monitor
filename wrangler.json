@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "wb-ozon-monitor",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e7ab0d2b-e6b7-4171-a5d1-1c9660182d82",
+      "database_name": "wb-ozon-monitor-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
